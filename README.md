@@ -16,8 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/srija2903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srija2903" height="30" width="40" /></a>
-<a href="https://instagram.com/srija.ad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srija.ad_" height="30" width="40" /></a>
+<a href="https://twitter.com/srija2903" target="blank"><img align="center" src="https://github.com/SrijaAdhya12/SrijaAdhya12/assets/113666002/0985b4a4-126d-44aa-93a6-ebf4ac6be4ce"
+ alt="srija2903" height="30" width="40" /></a>
+<a href="https://instagram.com/srija.ad_" target="blank"><img align="center" src="https://github.com/SrijaAdhya12/SrijaAdhya12/assets/113666002/b960ba11-f464-423c-9fe7-456c42b5fe70"
+" alt="srija.ad_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
