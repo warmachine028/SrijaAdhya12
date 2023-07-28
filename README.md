@@ -11,6 +11,9 @@
 
 - ⚡ Fun fact **People think I know nothing, but deep down I observe everything more than you think!**
 
+  <img align="right" height="400" width="400" alt="" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" style="max-width: 100%;">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/srija2903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srija2903" height="30" width="40" /></a>
