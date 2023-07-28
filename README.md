@@ -1,4 +1,4 @@
-<img src="Blue Yellow Futuristic Virtual Technology Blog Banner (1).png" width:200 height:150>
+<img src="banner.png" height:200px>
 
 
 
