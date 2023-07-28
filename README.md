@@ -1,3 +1,7 @@
+<img src="Blue Yellow Futuristic Virtual Technology Blog Banner (1).png" width:200 height:150>
+
+
+
 <h1 align="center">Hi 👋, I'm Srija!</h1>
 <h3 align="center">A designer , mastering Web Dev these days!</h3>
 
