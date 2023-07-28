@@ -1,6 +1,3 @@
-<img src="banner.png">
-
-
 
 <h1 align="center">Hi 👋, I'm Srija!</h1>
 <h3 align="center">A designer , mastering Web Dev these days!</h3>
