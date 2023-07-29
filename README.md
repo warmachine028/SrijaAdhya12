@@ -1,6 +1,6 @@
 
 ![banner](https://github.com/warmachine028/SrijaAdhya12/assets/75939390/f3e80911-d281-4b84-bf9d-d4cc44479e73) 
-<h1 align="center">Hi 👋, I'm Srija!</h1>
+<h1 align="center">Hi 👋, I'm Srija! <img src="https://camo.githubusercontent.com/a317930756e224fe9e139357d41031547ad2ea9c1c6947aa9af3061d888ff14f/68747470733a2f2f656d6f6a692e736c61636b2d656467652e636f6d2f54303137324343504755572f70617274792d626c6f622f643732353337303766613133653965652e676966" data-canonical-src="https://emoji.slack-edge.com/T0172CCPGUW/party-blob/d7253707fa13e9ee.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage"></h1>
 <h3 align="center">A designer , mastering Web Dev these days!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijaadhya12&label=Profile%20views&color=0e75b6&style=flat" alt="srijaadhya12" /> </p>
