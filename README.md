@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijaadhya12&label=Profile%20views&color=0e75b6&style=flat" alt="srijaadhya12" /> </p>
 
--  <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="side Image" align="right" height="auto" style="width: 25%; display: inline-block;" data-target="animated-image.originalImage">
+ <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="side Image" align="right" height="auto" style="width: 25%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 - 🔭 I’m currently working on [Google Cloud Arcade Challenge.](https://www.cloudskillsboost.google/public_profiles/6f72a244-40df-435a-825b-720bd5686b2a)
