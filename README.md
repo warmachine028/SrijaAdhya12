@@ -5,12 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijaadhya12&label=Profile%20views&color=0e75b6&style=flat" alt="srijaadhya12" /> </p>
 
-<div class="row">
-        <div class="col-lg-6">
- <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="side Image" align="right" height="auto" style="width: 25%; display: inline-block;" data-target="animated-image.originalImage">
-        </div>
-
- <div class="col-lg-6">
 - 🔭 I’m currently working on [Google Cloud Arcade Challenge.](https://www.cloudskillsboost.google/public_profiles/6f72a244-40df-435a-825b-720bd5686b2a)
 
 - 🌱 I’m currently learning **JavaScript and React.**
@@ -19,7 +13,7 @@
 
 - ⚡ Fun fact **People think I know nothing, but deep down I observe everything more than you think!**
 
-  </div>
+
 
 
  
