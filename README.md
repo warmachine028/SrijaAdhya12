@@ -5,6 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijaadhya12&label=Profile%20views&color=0e75b6&style=flat" alt="srijaadhya12" /> </p>
 
+<div class= col-lg-6>
+
+ <div class= row>
  <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="side Image" align="right" height="auto" style="width: 25%; display: inline-block;" data-target="animated-image.originalImage">
 
 
@@ -16,6 +19,8 @@
 
 - ⚡ Fun fact **People think I know nothing, but deep down I observe everything more than you think!**
 
+  </div>
+</div>
 
  
 
