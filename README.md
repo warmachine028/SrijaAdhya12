@@ -1,6 +1,9 @@
+
 ![banner](https://github.com/warmachine028/SrijaAdhya12/assets/75939390/f3e80911-d281-4b84-bf9d-d4cc44479e73) 
 <h1 align="center">Hi 👋, I'm Srija!</h1>
 <h3 align="center">A designer , mastering Web Dev these days!</h3>
+
+<img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="side Image" align="right" height="auto" style="width: 25%; display: inline-block;" data-target="animated-image.originalImage">
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijaadhya12&label=Profile%20views&color=0e75b6&style=flat" alt="srijaadhya12" /> </p>
 
