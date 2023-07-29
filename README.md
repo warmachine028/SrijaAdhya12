@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **People think I know nothing, but deep down I observe everything more than you think!**
 
-  <img align="right" height="350" width="350" alt="" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" style="max-width: 100%;">
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -32,8 +32,8 @@ alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target
 alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijaadhya12&show_icons=true&locale=en&layout=compact" alt="srijaadhya12" /></p>
+<p><img align="left" style="padding-top: 30px" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijaadhya12&show_icons=true&locale=en&layout=compact" alt="srijaadhya12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijaadhya12&show_icons=true&locale=en" alt="srijaadhya12" /></p>
+<p>&nbsp;<img align="right"  style="padding-top: 30px" src="https://github-readme-stats.vercel.app/api?username=srijaadhya12&show_icons=true&locale=en" alt="srijaadhya12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijaadhya12&" alt="srijaadhya12" /></p>
+<p><img align="center"  style="padding-top: 30px" src="https://github-readme-streak-stats.herokuapp.com/?user=srijaadhya12&" alt="srijaadhya12" /></p>
