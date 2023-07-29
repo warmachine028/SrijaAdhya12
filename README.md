@@ -1,4 +1,5 @@
-<img src="banner.png">
+![banner](https://github.com/warmachine028/SrijaAdhya12/assets/75939390/f3e80911-d281-4b84-bf9d-d4cc44479e73)
+
 <h1 align="center">Hi 👋, I'm Srija!</h1>
 <h3 align="center">A designer , mastering Web Dev these days!</h3>
 
