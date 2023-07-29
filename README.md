@@ -1,9 +1,7 @@
-![banner](https://github.com/warmachine028/SrijaAdhya12/assets/75939390/f3e80911-d281-4b84-bf9d-d4cc44479e73)
-
+![banner](https://github.com/warmachine028/SrijaAdhya12/assets/75939390/f3e80911-d281-4b84-bf9d-d4cc44479e73) 
 <h1 align="center">Hi 👋, I'm Srija!</h1>
 <h3 align="center">A designer , mastering Web Dev these days!</h3>
  
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijaadhya12&label=Profile%20views&color=0e75b6&style=flat" alt="srijaadhya12" /> </p>
 
 - 🔭 I’m currently working on [Google Cloud Arcade Challenge.](https://www.cloudskillsboost.google/public_profiles/6f72a244-40df-435a-825b-720bd5686b2a)
@@ -34,5 +32,3 @@
 <p><img align="left"src="https://github-readme-stats.vercel.app/api/top-langs?username=srijaadhya12&show_icons=true&locale=en&layout=compact" alt="srijaadhya12" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=srijaadhya12&show_icons=true&locale=en" alt="srijaadhya12" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=srijaadhya12&" alt="srijaadhya12" /></p>
