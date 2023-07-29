@@ -9,11 +9,13 @@
 
 - 🌱 I’m currently learning **JavaScript and React.**
 
+- - <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="side Image" align="right" height="auto" style="width: 25%; display: inline-block;" data-target="animated-image.originalImage">
+
 - 📫 How to reach me **srijaadhya.11sc.2020@gmail.com**
 
 - ⚡ Fun fact **People think I know nothing, but deep down I observe everything more than you think!**
 
-- <img src="https://github.com/sciencepal/sciencepal/raw/master/assets/life_balance.gif" alt="side Image" align="right" height="auto" style="width: 25%; display: inline-block;" data-target="animated-image.originalImage">
+
  
 
  
