@@ -25,4 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijaadhya12&show_icons=true&theme=dark&title_color=ffffff&text_color=bc1515&bg_color=000000&locale=en" alt="srijaadhya12" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijaadhya12&theme=dark" alt="srijaadhya12" /></p>
