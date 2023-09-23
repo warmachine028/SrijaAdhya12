@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijaadhya12&label=Profile%20views&color=0e75b6&style=flat" alt="srijaadhya12" /> </p>
 
-- 🔭 I’m currently working on [Google Cloud Arcade Challenge.](https://www.cloudskillsboost.google/public_profiles/6f72a244-40df-435a-825b-720bd5686b2a)
+- 🔭 I’m currently working on [Google Cloud](https://www.cloudskillsboost.google/public_profiles/6f72a244-40df-435a-825b-720bd5686b2a)
 
 - 🌱 I’m currently learning **JavaScript and React.**
 
